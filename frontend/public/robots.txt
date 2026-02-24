@@ -1,0 +1,12 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin and private routes
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /login
+Disallow: /register
+
+# Sitemap location
+Sitemap: https://gamezone.com/sitemap.xml

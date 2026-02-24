@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import axios from 'axios'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Pagination, Autoplay } from 'swiper/modules'
+import SEO from '../components/SEO'
 import 'swiper/css'
 import 'swiper/css/pagination'
 
@@ -43,6 +44,13 @@ const Home = () => {
 
   return (
     <div className="min-h-screen">
+      <SEO 
+        title="GameZone - Premium Online Gaming Platform | Cricket Betting & Casino Games"
+        description="Experience premium online gaming with GameZone. Get instant Gaming ID for cricket betting, live casino, sports betting & 5000+ games. Fast withdrawals, 24/7 support, secure platform."
+        keywords="online gaming, cricket betting, casino games, sports betting, gaming ID, live casino, online betting, cricket ID, gaming platform, secure betting, fast withdrawals"
+        url="https://gamezone.com"
+      />
+      
       {/* Hero Section with Animated Background */}
       <div className="relative overflow-hidden bg-gradient-to-b from-purple-900 via-purple-800 to-secondary stars-bg">
         {/* Decorative Elements */}

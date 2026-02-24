@@ -127,7 +127,7 @@ const Navbar = () => {
               )}
             </div>
 
-            <Link to="#" className="text-white hover:text-highlight transition px-4 py-2 font-medium">
+            <Link to="/blog" className="text-white hover:text-highlight transition px-4 py-2 font-medium">
               Blog
             </Link>
             <Link to="#" className="text-white hover:text-highlight transition px-4 py-2 font-medium">
@@ -246,7 +246,7 @@ const Navbar = () => {
               </div>
             </details>
 
-            <Link to="#" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
+            <Link to="/blog" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
               Blog
             </Link>
             <Link to="#" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
