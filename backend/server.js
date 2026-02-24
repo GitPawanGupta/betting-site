@@ -29,6 +29,16 @@ app.use('/api/games', gameRoutes)
 app.use('/api/users', userRoutes)
 app.use('/api/admin', adminRoutes)
 
+// Health check endpoint for Render
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ status: 'OK', message: 'Server is running' })
+})
+
+// Root endpoint
+app.get('/', (req, res) => {
+  res.json({ message: 'GameZone API Server', version: '1.0.0' })
+})
+
 // MongoDB Connection
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/gaming-platform')
   .then(() => console.log('MongoDB connected'))
