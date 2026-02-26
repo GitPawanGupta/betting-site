@@ -184,21 +184,21 @@ const Home = () => {
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {/* Partner 1 - 99exch */}
+            {/* Partner 1 - allpanelexch9 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-2xl font-bold text-gray-800">ALLPANELEXCH9</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center p-3">
+                  <span className="text-white font-bold text-center text-xs leading-tight">ALLPANEL<br/>EXCH9</span>
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white text-center mb-3">allpanelexch9.co</h3>
+              <h3 className="text-xl font-bold text-white text-center mb-3">allpanelexch9</h3>
               <p className="text-gray-400 text-center text-sm mb-6">
                 ALLPANELEXCH9 offers unbeatable exchange rates and a smooth user experience for gaming enthusiasts. 
                 It is built on trust and performance, so play freely.
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20Swamiji.live%20ID" 
+                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20allpanelexch9%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -208,11 +208,11 @@ const Home = () => {
               </div>
             </div>
 
-            {/* Partner 2 - Swamiji.live */}
+            {/* Partner 2 - cricxbet99 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-xl font-bold text-orange-500">CRICXBET99</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center p-3">
+                  <span className="text-white font-bold text-center text-xs leading-tight">CRICXBET<br/>99</span>
                 </div>
               </div>
               <h3 className="text-xl font-bold text-white text-center mb-3">cricxbet99.win</h3>
@@ -222,7 +222,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20Swamiji.live%20ID" 
+                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20cricxbet99%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -232,11 +232,11 @@ const Home = () => {
               </div>
             </div>
 
-            {/* Partner 3 - 11xplay.pro */}
+            {/* Partner 3 - mylaser247 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-2xl font-bold text-gray-800">mylaser247</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-green-500 to-emerald-700 rounded-full flex items-center justify-center p-3">
+                  <span className="text-white font-bold text-center text-xs leading-tight">MYLASER<br/>247</span>
                 </div>
               </div>
               <h3 className="text-xl font-bold text-white text-center mb-3">mylaser247.online</h3>
@@ -246,7 +246,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%2011xplay%20ID" 
+                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20mylaser247%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -256,11 +256,11 @@ const Home = () => {
               </div>
             </div>
 
-            {/* Partner 4 - laser247.club */}
+            {/* Partner 4 - lotusbook9 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-xl font-bold text-gray-800">lotusbook9</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-purple-500 to-pink-600 rounded-full flex items-center justify-center p-3">
+                  <span className="text-white font-bold text-center text-xs leading-tight">LOTUS<br/>BOOK9</span>
                 </div>
               </div>
               <h3 className="text-xl font-bold text-white text-center mb-3">lotusbook9.co</h3>
@@ -270,7 +270,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20Laser247%20ID" 
+                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20lotusbook9%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
