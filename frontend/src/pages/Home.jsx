@@ -191,7 +191,7 @@ const Home = () => {
                   <span className="text-2xl font-bold text-gray-800">ALLPANELEXCH9</span>
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white text-center mb-3">allpanelexch9</h3>
+              <h3 className="text-xl font-bold text-white text-center mb-3">allpanelexch9.co</h3>
               <p className="text-gray-400 text-center text-sm mb-6">
                 ALLPANELEXCH9 offers unbeatable exchange rates and a smooth user experience for gaming enthusiasts. 
                 It is built on trust and performance, so play freely.
