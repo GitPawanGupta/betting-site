@@ -88,7 +88,7 @@ const Home = () => {
             access fast withdrawals, reliable service, and a user-friendly interface all in one place.
           </p>
           <a 
-            href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+            href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-highlight text-white px-10 py-4 rounded-full font-bold text-lg hover:bg-orange-600 transition transform hover:scale-105 shadow-lg"
@@ -137,7 +137,7 @@ const Home = () => {
                 sports and casino gaming.
               </p>
               <a 
-                href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+                href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-highlight text-white px-8 py-3 rounded-full font-bold hover:bg-orange-600 transition"
@@ -188,17 +188,17 @@ const Home = () => {
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
                 <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-2xl font-bold text-gray-800">99EXCH</span>
+                  <span className="text-2xl font-bold text-gray-800">ALLPANELEXCH9</span>
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white text-center mb-3">99exch</h3>
+              <h3 className="text-xl font-bold text-white text-center mb-3">allpanelexch9</h3>
               <p className="text-gray-400 text-center text-sm mb-6">
-                99EXCH offers unbeatable exchange rates and a smooth user experience for gaming enthusiasts. 
+                ALLPANELEXCH9 offers unbeatable exchange rates and a smooth user experience for gaming enthusiasts. 
                 It is built on trust and performance, so play freely.
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%2099exch%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20Swamiji.live%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -212,17 +212,17 @@ const Home = () => {
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
                 <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-xl font-bold text-orange-500">SWAMIJI</span>
+                  <span className="text-xl font-bold text-orange-500">CRICXBET99</span>
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white text-center mb-3">Swamiji.live</h3>
+              <h3 className="text-xl font-bold text-white text-center mb-3">cricxbet99.win</h3>
               <p className="text-gray-400 text-center text-sm mb-6">
-                Swamiji Live offers live gaming, 24/7 support, and instant cricket IDs 
-                for a quick gaming experience. Swamiji Live has the Best transaction methods.
+                cricxbet99 Live offers live gaming, 24/7 support, and instant cricket IDs 
+                for a quick gaming experience. cricxbet99 Live has the Best transaction methods.
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20Swamiji.live%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20Swamiji.live%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -236,17 +236,17 @@ const Home = () => {
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
                 <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-2xl font-bold text-gray-800">11XPLAY</span>
+                  <span className="text-2xl font-bold text-gray-800">mylaser247</span>
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white text-center mb-3">11xplay.pro</h3>
+              <h3 className="text-xl font-bold text-white text-center mb-3">mylaser247.online</h3>
               <p className="text-gray-400 text-center text-sm mb-6">
-                1X Play is a way to enjoy live sports betting in real time. With top notch 
-                features, 1X Play provides a premium gaming experience and Fast Payment Services.
+                mylaser247 Play is a way to enjoy live sports betting in real time. With top notch 
+                features, mylaser247 Play provides a premium gaming experience and Fast Payment Services.
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%2011xplay%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%2011xplay%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -260,17 +260,17 @@ const Home = () => {
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
                 <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-xl font-bold text-gray-800">LASER</span>
+                  <span className="text-xl font-bold text-gray-800">lotusbook9</span>
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white text-center mb-3">laser247.club</h3>
+              <h3 className="text-xl font-bold text-white text-center mb-3">lotusbook9.co</h3>
               <p className="text-gray-400 text-center text-sm mb-6">
-                LASER247 is a fast and reliable online betting platform. This brand 
+                lotusbook9 is a fast and reliable online betting platform. This brand 
                 is highly recommended if you are looking for a speedy experience for wagering.
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20Laser247%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20Laser247%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -395,7 +395,7 @@ const Home = () => {
                 <h3 className="text-xl font-bold text-white mb-3">{option.title}</h3>
                 <p className="text-gray-400 text-sm mb-4">{option.desc}</p>
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold inline-block"
@@ -483,7 +483,7 @@ const Home = () => {
 
       {/* WhatsApp Floating Button */}
       <a 
-        href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+        href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-8 right-8 bg-green-500 text-white p-4 rounded-full shadow-2xl hover:bg-green-600 transition transform hover:scale-110 z-50"
