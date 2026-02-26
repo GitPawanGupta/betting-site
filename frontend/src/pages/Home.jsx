@@ -187,8 +187,8 @@ const Home = () => {
             {/* Partner 1 - allpanelexch9 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-32 h-32 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center p-3">
-                  <span className="text-white font-bold text-center text-xs leading-tight">ALLPANEL<br/>EXCH9</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center p-4 overflow-hidden">
+                  <span className="text-white font-bold text-center text-[10px] leading-tight break-words">ALLPANEL<br/>EXCH9</span>
                 </div>
               </div>
               <h3 className="text-xl font-bold text-white text-center mb-3">allpanelexch9</h3>
@@ -211,8 +211,8 @@ const Home = () => {
             {/* Partner 2 - cricxbet99 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-32 h-32 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center p-3">
-                  <span className="text-white font-bold text-center text-xs leading-tight">CRICXBET<br/>99</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center p-4 overflow-hidden">
+                  <span className="text-white font-bold text-center text-[11px] leading-tight break-words">CRICXBET<br/>99</span>
                 </div>
               </div>
               <h3 className="text-xl font-bold text-white text-center mb-3">cricxbet99.win</h3>
@@ -235,8 +235,8 @@ const Home = () => {
             {/* Partner 3 - mylaser247 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-32 h-32 bg-gradient-to-br from-green-500 to-emerald-700 rounded-full flex items-center justify-center p-3">
-                  <span className="text-white font-bold text-center text-xs leading-tight">MYLASER<br/>247</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-green-500 to-emerald-700 rounded-full flex items-center justify-center p-4 overflow-hidden">
+                  <span className="text-white font-bold text-center text-[11px] leading-tight break-words">MYLASER<br/>247</span>
                 </div>
               </div>
               <h3 className="text-xl font-bold text-white text-center mb-3">mylaser247.online</h3>
@@ -259,8 +259,8 @@ const Home = () => {
             {/* Partner 4 - lotusbook9 */}
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-highlight/50 transition-all duration-300">
               <div className="flex justify-center mb-4">
-                <div className="w-32 h-32 bg-gradient-to-br from-purple-500 to-pink-600 rounded-full flex items-center justify-center p-3">
-                  <span className="text-white font-bold text-center text-xs leading-tight">LOTUS<br/>BOOK9</span>
+                <div className="w-32 h-32 bg-gradient-to-br from-purple-500 to-pink-600 rounded-full flex items-center justify-center p-4 overflow-hidden">
+                  <span className="text-white font-bold text-center text-[11px] leading-tight break-words">LOTUS<br/>BOOK9</span>
                 </div>
               </div>
               <h3 className="text-xl font-bold text-white text-center mb-3">lotusbook9.co</h3>
