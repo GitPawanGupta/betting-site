@@ -198,7 +198,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20allpanelexch9%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20allpanelexch9%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -222,7 +222,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20cricxbet99%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20cricxbet99%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -246,7 +246,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20mylaser247%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20mylaser247%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -270,7 +270,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/917056422843?text=Hi%2C%20I%20want%20to%20get%20my%20lotusbook9%20ID" 
+                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20lotusbook9%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
