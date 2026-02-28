@@ -1,12 +1,41 @@
-# Allow all crawlers
+# robots.txt for GameZone
+
 User-agent: *
 Allow: /
-
-# Disallow admin and private routes
 Disallow: /admin
 Disallow: /dashboard
-Disallow: /login
-Disallow: /register
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*filter=
 
-# Sitemap location
-Sitemap: https://gamezone.com/sitemap.xml
+# Sitemap
+Sitemap: https://swami-ji.club/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
+
+# Specific bots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Slurp
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Crawl-delay: 30
+
+User-agent: SemrushBot
+Crawl-delay: 30
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
