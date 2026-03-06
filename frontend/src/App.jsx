@@ -10,6 +10,8 @@ import Dashboard from './pages/Dashboard'
 import CategoryPage from './pages/CategoryPage'
 import AdminPanel from './pages/AdminPanel'
 import Blog from './pages/Blog'
+import About from './pages/About'
+import Contact from './pages/Contact'
 import PrivateRoute from './components/PrivateRoute'
 
 function App() {
@@ -25,6 +27,8 @@ function App() {
                 <Route path="/login" element={<Login />} />
                 <Route path="/register" element={<Register />} />
                 <Route path="/blog" element={<Blog />} />
+                <Route path="/about" element={<About />} />
+                <Route path="/contact" element={<Contact />} />
                 <Route path="/dashboard" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
                 <Route path="/category/:categoryName" element={<CategoryPage />} />
                 <Route path="/admin" element={<PrivateRoute adminOnly><AdminPanel /></PrivateRoute>} />

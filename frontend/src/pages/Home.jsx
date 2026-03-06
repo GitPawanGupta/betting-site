@@ -4,6 +4,7 @@ import axios from 'axios'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Pagination, Autoplay } from 'swiper/modules'
 import SEO from '../components/SEO'
+import AdvancedSchema from '../components/AdvancedSchema'
 import 'swiper/css'
 import 'swiper/css/pagination'
 
@@ -12,20 +13,20 @@ const Home = () => {
 
   const carouselImages = [
     {
-      url: 'https://www.swamiji.club/wp-content/uploads/al_opt_content/IMAGE/www.swamiji.club/wp-content/uploads/2025/06/vitality-blast-cricket-id-provider-in-india.webp.bv.webp?bv_host=www.swamiji.club',
-      alt: 'vitality blast cricket id provider in india'
+      url: 'https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800&q=80',
+      alt: 'Cricket betting platform'
     },
     {
-      url: 'https://www.swamiji.club/wp-content/uploads/al_opt_content/IMAGE/www.swamiji.club/wp-content/uploads/2025/05/Swamiji-club-online.webp.bv.webp?bv_host=www.swamiji.club',
-      alt: 'Swamiji club online'
+      url: 'https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?w=800&q=80',
+      alt: 'Online gaming platform'
     },
     {
-      url: 'https://www.swamiji.club/wp-content/uploads/al_opt_content/IMAGE/www.swamiji.club/wp-content/uploads/2025/05/get-aviator-id-now.webp.bv.webp?bv_host=www.swamiji.club',
-      alt: 'get aviator id now'
+      url: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80',
+      alt: 'Live casino games'
     },
     {
-      url: 'https://www.swamiji.club/wp-content/uploads/al_opt_content/IMAGE/www.swamiji.club/wp-content/uploads/2025/05/swamiji-live-exchange.webp.bv.webp?bv_host=www.swamiji.club',
-      alt: 'swamiji live exchange'
+      url: 'https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&q=80',
+      alt: 'Sports betting exchange'
     }
   ]
 
@@ -45,11 +46,12 @@ const Home = () => {
   return (
     <div className="min-h-screen">
       <SEO 
-        title="GameZone - Premium Online Gaming Platform | Cricket Betting & Casino Games"
-        description="Experience premium online gaming with GameZone. Get instant Gaming ID for cricket betting, live casino, sports betting & 5000+ games. Fast withdrawals, 24/7 support, secure platform."
-        keywords="online gaming, cricket betting, casino games, sports betting, gaming ID, live casino, online betting, cricket ID, gaming platform, secure betting, fast withdrawals"
-        url="https://gamezone.com"
+        title="Online Cricket ID: India's Best Cricket Betting ID Provider By SwamiJi Cricket ID"
+        description="Get instant cricket betting ID from Swamiji Online - India's most trusted betting ID provider. 5000+ games, 24/7 support, fast withdrawals. WhatsApp: +91 8743884000"
+        keywords="online cricket id, cricket betting id, betting id provider, swamiji online, cricket id india, online betting id, instant cricket id, casino betting id, sports betting id"
+        url="https://swami-ji.club"
       />
+      <AdvancedSchema />
       
       {/* Hero Section with Animated Background */}
       <div className="relative overflow-hidden bg-gradient-to-b from-purple-900 via-purple-800 to-secondary stars-bg">
@@ -497,3 +499,5 @@ const Home = () => {
 }
 
 export default Home
+
+
