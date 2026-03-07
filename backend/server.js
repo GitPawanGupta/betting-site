@@ -7,6 +7,7 @@ import authRoutes from './routes/auth.js'
 import gameRoutes from './routes/games.js'
 import userRoutes from './routes/users.js'
 import adminRoutes from './routes/admin.js'
+import leadRoutes from './routes/leads.js'
 
 dotenv.config()
 
@@ -40,6 +41,7 @@ app.use('/api/auth', authRoutes)
 app.use('/api/games', gameRoutes)
 app.use('/api/users', userRoutes)
 app.use('/api/admin', adminRoutes)
+app.use('/api/leads', leadRoutes)
 
 // Health check endpoint for Render
 app.get('/api/health', (req, res) => {
@@ -52,8 +54,8 @@ app.get('/', (req, res) => {
 })
 
 // MongoDB Connection
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/gaming-platform')
-  .then(() => console.log('MongoDB connected'))
+mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://erpawan459_db_user:alhFC6pCako72e3n@helpdesk-cluster.hlw9wff.mongodb.net/betting')
+  .then(() => console.log('MongoDB Atlas connected'))
   .catch(err => console.error('MongoDB connection error:', err))
 
 const PORT = process.env.PORT || 5000

@@ -6,47 +6,39 @@
   <!-- Homepage -->
   <url>
     <loc>https://swami-ji.club/</loc>
-    <lastmod>2026-03-07</lastmod>
+    <lastmod>2024-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
-  <!-- Login Page -->
+  <!-- Login Page (Landing Page) -->
   <url>
     <loc>https://swami-ji.club/login</loc>
-    <lastmod>2026-03-07</lastmod>
+    <lastmod>2024-03-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   
-  <!-- Register Page -->
+  <!-- Landing Page -->
   <url>
-    <loc>https://swami-ji.club/register</loc>
-    <lastmod>2026-03-07</lastmod>
+    <loc>https://swami-ji.club/landing</loc>
+    <lastmod>2024-03-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Dashboard -->
-  <url>
-    <loc>https://swami-ji.club/dashboard</loc>
-    <lastmod>2026-03-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.9</priority>
   </url>
   
   <!-- Blog -->
   <url>
     <loc>https://swami-ji.club/blog</loc>
-    <lastmod>2026-03-07</lastmod>
+    <lastmod>2024-03-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   
   <!-- About Page -->
   <url>
     <loc>https://swami-ji.club/about</loc>
-    <lastmod>2026-03-07</lastmod>
+    <lastmod>2024-03-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -54,39 +46,9 @@
   <!-- Contact Page -->
   <url>
     <loc>https://swami-ji.club/contact</loc>
-    <lastmod>2026-03-07</lastmod>
+    <lastmod>2024-03-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-  
-  <!-- Category Pages -->
-  <url>
-    <loc>https://swami-ji.club/category/cricket</loc>
-    <lastmod>2026-03-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://swami-ji.club/category/casino</loc>
-    <lastmod>2026-03-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://swami-ji.club/category/sports</loc>
-    <lastmod>2026-03-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Admin Panel -->
-  <url>
-    <loc>https://swami-ji.club/admin</loc>
-    <lastmod>2026-03-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
   </url>
   
 </urlset>

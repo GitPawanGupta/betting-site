@@ -12,6 +12,8 @@ import AdminPanel from './pages/AdminPanel'
 import Blog from './pages/Blog'
 import About from './pages/About'
 import Contact from './pages/Contact'
+import LandingPage from './pages/LandingPage'
+import LeadsPanel from './pages/LeadsPanel'
 import PrivateRoute from './components/PrivateRoute'
 
 function App() {
@@ -19,23 +21,32 @@ function App() {
     <HelmetProvider>
       <AuthProvider>
         <Router>
-          <div className="min-h-screen bg-primary flex flex-col">
-            <Navbar />
-            <main className="flex-grow">
-              <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/login" element={<Login />} />
-                <Route path="/register" element={<Register />} />
-                <Route path="/blog" element={<Blog />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/contact" element={<Contact />} />
-                <Route path="/dashboard" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
-                <Route path="/category/:categoryName" element={<CategoryPage />} />
-                <Route path="/admin" element={<PrivateRoute adminOnly><AdminPanel /></PrivateRoute>} />
-              </Routes>
-            </main>
-            <Footer />
-          </div>
+          <Routes>
+            {/* Landing Page - No Navbar/Footer */}
+            <Route path="/landing" element={<LandingPage />} />
+            
+            {/* Main Website with Navbar/Footer */}
+            <Route path="/*" element={
+              <div className="min-h-screen bg-primary flex flex-col">
+                <Navbar />
+                <main className="flex-grow">
+                  <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/login" element={<Login />} />
+                    <Route path="/register" element={<Register />} />
+                    <Route path="/blog" element={<Blog />} />
+                    <Route path="/about" element={<About />} />
+                    <Route path="/contact" element={<Contact />} />
+                    <Route path="/dashboard" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
+                    <Route path="/category/:categoryName" element={<CategoryPage />} />
+                    <Route path="/admin" element={<PrivateRoute adminOnly><AdminPanel /></PrivateRoute>} />
+                    <Route path="/leads" element={<PrivateRoute adminOnly><LeadsPanel /></PrivateRoute>} />
+                  </Routes>
+                </main>
+                <Footer />
+              </div>
+            } />
+          </Routes>
         </Router>
       </AuthProvider>
     </HelmetProvider>

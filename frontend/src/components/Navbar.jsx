@@ -144,9 +144,14 @@ const Navbar = () => {
                   Dashboard
                 </Link>
                 {user.isAdmin && (
-                  <Link to="/admin" className="text-white hover:text-highlight transition px-4 py-2 font-medium">
-                    Admin
-                  </Link>
+                  <>
+                    <Link to="/admin" className="text-white hover:text-highlight transition px-4 py-2 font-medium">
+                      Admin
+                    </Link>
+                    <Link to="/leads" className="text-white hover:text-highlight transition px-4 py-2 font-medium">
+                      Leads
+                    </Link>
+                  </>
                 )}
                 <button onClick={logout} className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold ml-2">
                   Logout
@@ -154,10 +159,7 @@ const Navbar = () => {
               </>
             ) : (
               <>
-                <Link to="/login" className="text-white hover:text-highlight transition px-4 py-2 font-medium">
-                  Login
-                </Link>
-                <Link to="/register" className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold ml-2">
+                <Link to="/login" className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold ml-2">
                   Get Started
                 </Link>
               </>
@@ -265,9 +267,14 @@ const Navbar = () => {
                   Dashboard
                 </Link>
                 {user.isAdmin && (
-                  <Link to="/admin" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
-                    Admin
-                  </Link>
+                  <>
+                    <Link to="/admin" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
+                      Admin
+                    </Link>
+                    <Link to="/leads" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
+                      Leads
+                    </Link>
+                  </>
                 )}
                 <button onClick={logout} className="w-full text-left text-white hover:bg-accent px-3 py-2 rounded font-medium">
                   Logout
@@ -276,10 +283,7 @@ const Navbar = () => {
             ) : (
               <>
                 <Link to="/login" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
-                  Login
-                </Link>
-                <Link to="/register" className="block text-white hover:bg-accent px-3 py-2 rounded font-medium">
-                  Register
+                  Get Started
                 </Link>
               </>
             )}

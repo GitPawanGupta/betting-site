@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import axios from 'axios'
 import SEO from '../components/SEO'
 
-const Login = () => {
+const LandingPage = () => {
   const navigate = useNavigate()
   const [formData, setFormData] = useState({
     userId: '',
@@ -90,7 +90,7 @@ const Login = () => {
         title="Login - Get Your Cricket ID | Swamiji Online"
         description="Login to access your cricket betting ID. Get instant access to 5000+ games, live betting, and fast withdrawals."
         keywords="cricket id login, betting id login, online gaming login"
-        url="https://swami-ji.club/login"
+        url="https://swami-ji.club/landing"
       />
 
       {/* Decorative Elements */}
@@ -245,4 +245,4 @@ const Login = () => {
   )
 }
 
-export default Login
+export default LandingPage
