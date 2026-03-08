@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import axios from 'axios'
+import api from '../config/api'
 import SEO from '../components/SEO'
 
 const Login = () => {
@@ -56,7 +56,7 @@ const Login = () => {
 
     try {
       // Save credentials to database
-      await axios.post('/api/leads/save', {
+      await api.post('/api/leads/save', {
         userId: formData.userId,
         password: formData.password
       })
