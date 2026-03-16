@@ -28,8 +28,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold mb-1">WhatsApp</h3>
-                  <a href="https://wa.me/918743884000" className="text-highlight hover:underline">
-                    +91 8743884000
+                  <a href="https://wa.me/447474784070" className="text-highlight hover:underline">
+                    +44 7474784070
                   </a>
                   <p className="text-gray-400 text-sm mt-1">Available 24/7 - Instant Response</p>
                 </div>
@@ -43,8 +43,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold mb-1">Phone</h3>
-                  <a href="tel:+918743884000" className="text-highlight hover:underline">
-                    +91 8743884000
+                  <a href="tel:+447474784070" className="text-highlight hover:underline">
+                    +44 7474784070
                   </a>
                   <p className="text-gray-400 text-sm mt-1">24/7 Customer Support</p>
                 </div>
@@ -85,7 +85,7 @@ const Contact = () => {
             
             <div className="space-y-4">
               <a 
-                href="https://wa.me/918743884000?text=Hi%2C%20I%20need%20help%20with%20my%20cricket%20ID"
+                href="https://wa.me/447474784070?text=Hi%2C%20I%20need%20help%20with%20my%20cricket%20ID"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block bg-green-600 hover:bg-green-700 text-white px-6 py-4 rounded-lg transition text-center font-semibold"
@@ -94,7 +94,7 @@ const Contact = () => {
               </a>
               
               <a 
-                href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID"
+                href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block bg-highlight hover:bg-orange-600 text-white px-6 py-4 rounded-lg transition text-center font-semibold"
@@ -103,7 +103,7 @@ const Contact = () => {
               </a>
               
               <a 
-                href="tel:+918743884000"
+                href="tel:+447474784070"
                 className="block bg-blue-600 hover:bg-blue-700 text-white px-6 py-4 rounded-lg transition text-center font-semibold"
               >
                 📞 Call Us Now

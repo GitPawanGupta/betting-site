@@ -22,7 +22,7 @@ const SEO = ({
     "logo": ogImage,
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+91-8743884000",
+      "telephone": "+44-7474784070",
       "contactType": "Customer Service",
       "availableLanguage": ["English", "Hindi"],
       "areaServed": "IN"

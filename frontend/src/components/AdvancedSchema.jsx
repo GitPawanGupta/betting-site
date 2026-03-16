@@ -12,7 +12,7 @@ const AdvancedSchema = () => {
     "foundingDate": "2020",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+91-8743884000",
+      "telephone": "+44-7474784070",
       "contactType": "Customer Service",
       "availableLanguage": ["English", "Hindi"],
       "areaServed": "IN",
@@ -34,7 +34,7 @@ const AdvancedSchema = () => {
       "https://www.instagram.com/swamijionline",
       "https://twitter.com/swamijionline",
       "https://www.youtube.com/@swamijionline",
-      "https://wa.me/918743884000"
+      "https://wa.me/447474784070"
     ],
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -149,7 +149,7 @@ const AdvancedSchema = () => {
         "name": "How to get cricket ID online?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Simply click on the WhatsApp button and contact our support team at +91 8743884000. They will guide you through the quick registration process and provide your Cricket ID instantly within 5 minutes."
+          "text": "Simply click on the WhatsApp button and contact our support team at +44 7474784070. They will guide you through the quick registration process and provide your Cricket ID instantly within 5 minutes."
         }
       },
       {
@@ -216,7 +216,7 @@ const AdvancedSchema = () => {
     "@type": "LocalBusiness",
     "name": "Swamiji Online",
     "image": "https://swami-ji.club/logo.webp",
-    "telephone": "+91-8743884000",
+    "telephone": "+44-7474784070",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "IN"

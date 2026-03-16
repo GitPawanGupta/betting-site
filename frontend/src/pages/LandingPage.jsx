@@ -77,7 +77,7 @@ const LandingPage = () => {
   }
 
   const handleWhatsApp = () => {
-    window.open('https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID', '_blank')
+    window.open('https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID', '_blank')
   }
 
   const handleGoToWebsite = () => {

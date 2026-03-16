@@ -47,7 +47,7 @@ const Home = () => {
     <div className="min-h-screen">
       <SEO 
         title="Online Cricket ID: India's Best Cricket Betting ID Provider By SwamiJi Cricket ID"
-        description="Get instant cricket betting ID from Swamiji Online - India's most trusted betting ID provider. 5000+ games, 24/7 support, fast withdrawals. WhatsApp: +91 8743884000"
+        description="Get instant cricket betting ID from Swamiji Online - India's most trusted betting ID provider. 5000+ games, 24/7 support, fast withdrawals. WhatsApp: +44 7474784070"
         keywords="online cricket id, cricket betting id, betting id provider, swamiji online, cricket id india, online betting id, instant cricket id, casino betting id, sports betting id"
         url="https://swami-ji.club"
       />
@@ -90,7 +90,7 @@ const Home = () => {
             access fast withdrawals, reliable service, and a user-friendly interface all in one place.
           </p>
           <a 
-            href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+            href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-block bg-highlight text-white px-10 py-4 rounded-full font-bold text-lg hover:bg-orange-600 transition transform hover:scale-105 shadow-lg"
@@ -139,7 +139,7 @@ const Home = () => {
                 sports and casino gaming.
               </p>
               <a 
-                href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+                href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-highlight text-white px-8 py-3 rounded-full font-bold hover:bg-orange-600 transition"
@@ -200,7 +200,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20allpanelexch9%20ID" 
+                  href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20allpanelexch9%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -224,7 +224,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20cricxbet99%20ID" 
+                  href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20cricxbet99%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -248,7 +248,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20mylaser247%20ID" 
+                  href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20mylaser247%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -272,7 +272,7 @@ const Home = () => {
               </p>
               <div className="flex justify-center">
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20lotusbook9%20ID" 
+                  href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20lotusbook9%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold"
@@ -397,7 +397,7 @@ const Home = () => {
                 <h3 className="text-xl font-bold text-white mb-3">{option.title}</h3>
                 <p className="text-gray-400 text-sm mb-4">{option.desc}</p>
                 <a 
-                  href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+                  href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-highlight text-white px-6 py-2 rounded-full hover:bg-orange-600 transition font-semibold inline-block"
@@ -485,7 +485,7 @@ const Home = () => {
 
       {/* WhatsApp Floating Button */}
       <a 
-        href="https://wa.me/918743884000?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
+        href="https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-8 right-8 bg-green-500 text-white p-4 rounded-full shadow-2xl hover:bg-green-600 transition transform hover:scale-110 z-50"
