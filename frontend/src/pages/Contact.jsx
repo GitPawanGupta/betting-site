@@ -4,9 +4,9 @@ const Contact = () => {
   return (
     <div className="min-h-screen bg-primary">
       <SEO 
-        title="Contact Us - Swamiji Online | 24/7 Customer Support"
-        description="Contact Swamiji Online for instant cricket ID, betting support, and customer service. Available 24/7 via WhatsApp, Email, and Phone. Get help in minutes!"
-        keywords="contact swamiji online, betting id support, customer service, whatsapp support, cricket id help"
+        title="Contact Swamiji Online | Cricket ID WhatsApp | 24/7 Support India"
+        description="Contact Swamiji Online for instant cricket betting ID via WhatsApp +44 7474784070. Get cricket ID in 5 minutes. 24/7 support in Hindi & English. Fast response guaranteed."
+        keywords="contact swamiji online, cricket id whatsapp, cricket id helpline, betting id support india, swamiji online contact number, cricket id kaise banaye, whatsapp cricket id"
         url="https://swami-ji.club/contact"
       />
       

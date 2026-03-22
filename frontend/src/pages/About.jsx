@@ -4,9 +4,9 @@ const About = () => {
   return (
     <div className="min-h-screen bg-primary">
       <SEO 
-        title="About Us - Swamiji Online | Trusted Betting ID Provider"
-        description="Learn about Swamiji Online, India's most trusted online betting ID provider. We offer secure cricket betting, casino games, and 24/7 customer support since 2020."
-        keywords="about swamiji online, betting id provider, trusted gaming platform, online betting company"
+        title="About Swamiji Online | Trusted Cricket ID Provider India | Swamiji Review"
+        description="Swamiji Online - India's most trusted cricket betting ID provider since 2020. 50,000+ happy customers, instant ID creation, 24/7 WhatsApp support. Read our story."
+        keywords="about swamiji online, trusted cricket id provider, swamiji online review, best betting id provider india, swamiji club review, cricket id provider 2026"
         url="https://swami-ji.club/about"
       />
       

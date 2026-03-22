@@ -87,9 +87,9 @@ const LandingPage = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-900 via-purple-800 to-secondary flex items-center justify-center px-4 py-8 stars-bg">
       <SEO 
-        title="Login - Get Your Cricket ID | Swamiji Online"
-        description="Login to access your cricket betting ID. Get instant access to 5000+ games, live betting, and fast withdrawals."
-        keywords="cricket id login, betting id login, online gaming login"
+        title="Get Cricket ID Instantly | Cricket ID Login | Swamiji Online"
+        description="Get your cricket betting ID instantly from Swamiji Online. Login or register via WhatsApp +44 7474784070. Instant cricket ID in 5 minutes. India's #1 trusted provider."
+        keywords="get cricket id instantly, cricket id login, cricket id register, instant cricket id, cricket betting id online, swamiji online login, cricket id banaye whatsapp"
         url="https://swami-ji.club/landing"
       />
 

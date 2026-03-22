@@ -9,6 +9,10 @@
   RewriteCond %{HTTPS} off
   RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
   
+  # Redirect swami-ji.live to swami-ji.club (canonical domain)
+  RewriteCond %{HTTP_HOST} ^(www\.)?swami-ji\.live$ [NC]
+  RewriteRule ^(.*)$ https://swami-ji.club/$1 [L,R=301]
+  
   # Force WWW (optional - remove if not needed)
   # RewriteCond %{HTTP_HOST} !^www\. [NC]
   # RewriteRule ^(.*)$ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

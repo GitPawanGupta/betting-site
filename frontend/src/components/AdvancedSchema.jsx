@@ -5,7 +5,7 @@ const AdvancedSchema = () => {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Swamiji Online",
-    "alternateName": "Swamiji Club",
+    "alternateName": ["Swamiji Club", "Swami Ji Online", "swami-ji.live"],
     "url": "https://swami-ji.club",
     "logo": "https://swami-ji.club/logo.webp",
     "description": "India's Best Cricket Betting ID Provider. Get instant cricket ID, casino games, and sports betting with 24/7 support.",
@@ -30,6 +30,7 @@ const AdvancedSchema = () => {
       "addressRegion": "India"
     },
     "sameAs": [
+      "https://swami-ji.live",
       "https://www.facebook.com/swamijionline",
       "https://www.instagram.com/swamijionline",
       "https://twitter.com/swamijionline",
