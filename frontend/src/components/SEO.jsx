@@ -11,50 +11,6 @@ const SEO = ({
   breadcrumbs = null,
   article = null
 }) => {
-  
-  const organizationSchema = {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Swamiji Online",
-    "alternateName": ["Swamiji Club", "swami-ji.live"],
-    "description": "India's most trusted cricket betting ID provider with 50,000+ satisfied customers",
-    "url": "https://swami-ji.club",
-    "logo": "https://swami-ji.club/logo.webp",
-    "foundingDate": "2020",
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+44-7474784070",
-      "contactType": "Customer Service",
-      "availableLanguage": ["English", "Hindi"],
-      "areaServed": "IN"
-    },
-    "sameAs": [
-      "https://swami-ji.live",
-      "https://www.facebook.com/swamijionline",
-      "https://www.instagram.com/swamijionline",
-      "https://wa.me/447474784070"
-    ],
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.8",
-      "reviewCount": "2547",
-      "bestRating": "5",
-      "worstRating": "1"
-    }
-  }
-
-  const websiteSchema = {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Swamiji Online",
-    "url": "https://swami-ji.club",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://swami-ji.club/search?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    },
-    "inLanguage": ["en-IN", "hi-IN"]
-  }
 
   const breadcrumbSchema = breadcrumbs ? {
     "@context": "https://schema.org",
@@ -86,7 +42,7 @@ const SEO = ({
     "dateModified": article.dateModified || article.datePublished
   } : null
 
-  const allSchemas = [organizationSchema, websiteSchema, breadcrumbSchema, articleSchema, schema].filter(Boolean)
+  const allSchemas = [breadcrumbSchema, articleSchema, schema].filter(Boolean)
 
   return (
     <Helmet>
