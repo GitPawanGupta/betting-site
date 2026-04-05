@@ -224,8 +224,8 @@ const AdvancedSchema = () => {
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": "28.6139",
-      "longitude": "77.2090"
+      "latitude": 28.6139,
+      "longitude": 77.2090
     },
     "url": "https://swami-ji.club",
     "priceRange": "₹₹",
