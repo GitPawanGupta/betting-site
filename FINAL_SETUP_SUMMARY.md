@@ -14,7 +14,7 @@
 ```
 
 **Alternative Actions:**
-- Click "WhatsApp" → Opens WhatsApp chat (+91 8743884000)
+- Click "WhatsApp" → Opens WhatsApp chat (+447848431366)
 - Click "Go to Website" → Goes to home page
 
 ### 🔐 Admin Access:
@@ -265,7 +265,7 @@ Instant ID creation. 24/7 support. Join 50,000+ users!
 
 ### WhatsApp:
 ```
-Number: +91 8743884000
+Number: +447848431366
 Message: "Hi, I want to get my online cricket ID"
 ```
 

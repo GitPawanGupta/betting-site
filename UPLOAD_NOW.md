@@ -140,7 +140,7 @@ public_html/
 5. Enter business name: **Swamiji Online**
 6. Choose category: **Online Gaming Service**
 7. Add location: **India** (or specific city)
-8. Add phone: **+91 8743884000**
+8. Add phone: **+447848431366**
 9. Add website: **https://swami-ji.club**
 10. Choose verification method (Phone/Postcard)
 11. Complete verification
@@ -181,7 +181,7 @@ public_html/
 - Proper priorities
 
 ### 5. WhatsApp Number
-- All links updated to: +91 8743884000
+- All links updated to: +447848431366
 - Working on all pages
 
 ## ⚠️ Common Issues & Solutions

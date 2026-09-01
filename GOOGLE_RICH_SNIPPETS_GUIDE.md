@@ -43,7 +43,7 @@ This is MOST IMPORTANT for appearing like in screenshot!
 3. Enter business name: "Swamiji Online"
 4. Choose category: "Online Gaming Service" or "Entertainment Service"
 5. Add location: India (or specific city)
-6. Add phone: +91 8743884000
+6. Add phone: +447848431366
 7. Add website: https://swami-ji.club
 8. Verify business (via phone/postcard)
 
@@ -262,7 +262,7 @@ After 3-6 months, your site should appear like:
 ### Business Information
 - **Name**: Swamiji Online
 - **Category**: Online Gaming Service
-- **Phone**: +91 8743884000
+- **Phone**: +447848431366
 - **Website**: https://swami-ji.club
 - **Hours**: Open 24 hours
 - **Description**: 

@@ -77,7 +77,7 @@ const LandingPage = () => {
   }
 
   const handleWhatsApp = () => {
-    window.open('https://wa.me/447474784070?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID', '_blank')
+    window.open('https://wa.me/447848431366?text=Hi%2C%20I%20want%20to%20get%20my%20online%20cricket%20ID', '_blank')
   }
 
   const handleGoToWebsite = () => {
@@ -88,7 +88,7 @@ const LandingPage = () => {
     <div className="min-h-screen bg-gradient-to-br from-purple-900 via-purple-800 to-secondary flex items-center justify-center px-4 py-8 stars-bg">
       <SEO 
         title="Get Cricket ID Instantly | Cricket ID Login | Swamiji Online"
-        description="Get your cricket betting ID instantly from Swamiji Online. Login or register via WhatsApp +44 7474784070. Instant cricket ID in 5 minutes. India's #1 trusted provider."
+        description="Get your cricket betting ID instantly from Swamiji Online. Login or register via WhatsApp +447848431366. Instant cricket ID in 5 minutes. India's #1 trusted provider."
         keywords="get cricket id instantly, cricket id login, cricket id register, instant cricket id, cricket betting id online, swamiji online login, cricket id banaye whatsapp"
         url="https://swami-ji.club/landing"
       />

@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="min-h-screen bg-primary">
       <SEO 
         title="Contact Swamiji Online | Cricket ID WhatsApp | 24/7 Support India"
-        description="Contact Swamiji Online for instant cricket betting ID via WhatsApp +44 7474784070. Get cricket ID in 5 minutes. 24/7 support in Hindi & English. Fast response guaranteed."
+        description="Contact Swamiji Online for instant cricket betting ID via WhatsApp +447848431366. Get cricket ID in 5 minutes. 24/7 support in Hindi & English. Fast response guaranteed."
         keywords="contact swamiji online, cricket id whatsapp, cricket id helpline, betting id support india, swamiji online contact number, cricket id kaise banaye, whatsapp cricket id"
         url="https://swami-ji.club/contact"
       />
@@ -28,8 +28,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold mb-1">WhatsApp</h3>
-                  <a href="https://wa.me/447474784070" className="text-highlight hover:underline">
-                    +44 7474784070
+                  <a href="https://wa.me/447848431366" className="text-highlight hover:underline">
+                    +447848431366
                   </a>
                   <p className="text-gray-400 text-sm mt-1">Available 24/7 - Instant Response</p>
                 </div>
@@ -43,8 +43,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold mb-1">Phone</h3>
-                  <a href="tel:+447474784070" className="text-highlight hover:underline">
-                    +44 7474784070
+                  <a href="tel:+447848431366" className="text-highlight hover:underline">
+                    +447848431366
                   </a>
                   <p className="text-gray-400 text-sm mt-1">24/7 Customer Support</p>
                 </div>
